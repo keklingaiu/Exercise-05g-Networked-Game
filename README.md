@@ -14,7 +14,7 @@ Built using Godot 3.2.2
 None
 
 ## Extra Credit
-None
+I did attempt to do the extra credit, got capsules to be players, but the animations don't quite work
 
 ## Created by 
 Kyle Klingaman
